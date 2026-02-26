@@ -36,11 +36,7 @@ Soy un **Estudiante de Ingeniería en TICs** en el **Instituto Tecnológico de P
 
 ---
 
-### 📈 Mi actividad en GitHub
-![Estadísticas de Valentin](https://github-readme-stats.vercel.app/api?username=Vale77Bon&show_icons=true&theme=tokyonight)
-
----
 
 ### 📫 Contacto
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/hernandez-molina-valentin-943bb0343?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - **Portafolio:** [Enlace a itp-reviews o sitio personal]
